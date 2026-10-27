@@ -5,6 +5,6 @@
   <title>Site TDS III</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, Santa Maria!</h1>" ?>
+    <?php echo "<h1>Olá, Santa !</h1>" ?>
 </body>
 </html>
