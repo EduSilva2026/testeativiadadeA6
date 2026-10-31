@@ -22,7 +22,7 @@ try {
 
     if ( $linha = $stmt->fetch() ) { // fetch() retorna false se não tiver linhas
         echo "Login bem-sucedido!";
-        echo "<p><a href='lista.php'>Ver lista de alunos</a></p>";
+        echo "<p><a href='lista.php' style='background: yellow;'>Ver lista de alunos</a></p>";
     } else {
         echo "<p>CPF ou senha incorretos.</p>";
     }
